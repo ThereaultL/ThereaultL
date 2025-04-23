@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Lillian Thereault, a Junior studying Computer Science at Western Carolina University
+- 👀 I’m interested in all things software developement. Whether it be front-end or back-end!
+- 🌱 I’m currently learning C, C++, and getting my feet into ML.
+- 💞️ What to collaborate on a project? Feel free to reach out to me about starting, or joining one! I'm always open to new challanges and ways to grow. And likewise, I'm always willing to give others the same opportunity.
+- 📫 To reach me, you can make a connection and message me on LinkedIn -> www.linkedin.com/in/lillian-thereault-2973072b4
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I'm a total cat lover. I love anything and everything cat related.
